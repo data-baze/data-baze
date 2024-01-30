@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning about Containers, Docker, Kubernetes & OpenShift
+- 🌱 I’m currently learning about AWS Cloud Technical Essentials
 - 👯 I’m looking to collaborate on AI and Web3 related projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Next.js React or Django
