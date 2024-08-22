@@ -18,6 +18,9 @@
 
 [![Top Langs](https://readme-stats-fkq9.vercel.app/api/top-langs/?username=data-baze&show_icons=true&count_private=true&layout=pie&theme=radical)]
 
+![Top Languages](https://readme-stats-fkq9.vercel.app/api/top-langs/?username=data-baze&layout=compact&count_private=true&theme=radical)
+
+
 
 
 
