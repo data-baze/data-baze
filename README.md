@@ -16,7 +16,7 @@
 ![Data's GitHub Stats](https://readme-stats-fkq9.vercel.app/api?username=data-baze&show_icons=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&theme=radical)
 
 
-[![Top Langs](https://readme-stats-fkq9.vercel.app/api/top-langs/?username=data-baze)](https://github.com/data-baze/github-readme-stats)
+[![Top Langs](https://readme-stats-fkq9.vercel.app/api/top-langs/?username=data-baze&show_icons=true&count_private=true&layout=pie&theme=radical)]
 
 
 
