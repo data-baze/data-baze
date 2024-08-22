@@ -16,7 +16,7 @@
 ![Data's GitHub Stats](https://readme-stats-fkq9.vercel.app/api?username=data-baze&show_icons=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&theme=radical)
 
 
-[![Top Langs](https://https://github-readme-stats.vercel.app/api/top-langs/?username=data-baze&layout=pie&theme=radical)]
+[![Top Langs](https://https://github-readme-stats.vercel.app/api/top-langs/?username=data-baze&layout=pie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Languages](https://readme-stats-fkq9.vercel.app/api/top-langs/?username=data-baze&layout=compact&count_private=false&theme=radical)
 
