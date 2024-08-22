@@ -11,6 +11,14 @@
 
 ---
 
+![GitHub commit activity](https://github-readme-stats.vercel.app/api?username=data-baze&show_icons=true&theme=radical)
+
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=data-baze&theme=react-dark)
+
+
+
+
 ## My Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
