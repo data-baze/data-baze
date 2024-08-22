@@ -13,7 +13,7 @@
 
 
 
-![Data's GitHub Stats](https://readme-stats-fkq9.vercel.app/api?username=data-baze&show_icons=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark)
+![Data's GitHub Stats](https://readme-stats-fkq9.vercel.app/api?username=data-baze&show_icons=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&theme=radical)
 
 
 
