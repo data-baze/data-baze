@@ -11,10 +11,9 @@
 
 ---
 
-![Data's GitHub Stats](https://readme-stats-fkq9.vercel.app/api?username=data-baze&show_icons=true&count_private=true&theme=radical)
 
 
-![Data's Activity Graph](https://readme-stats-fkq9.vercel.app/api?username=data-baze&show=reviews,prs_merged,prs_merged_percentage&theme=react-dark)
+![Data's GitHub Stats](https://readme-stats-fkq9.vercel.app/api?username=data-baze&show_icons=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark)
 
 
 
