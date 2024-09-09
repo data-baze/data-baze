@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on a lot :)
 - 🌱 I’m currently learning about Advance Data Structures and Algorithm
 - 👯 I’m looking to collaborate on AI and Web3 related projects
 - 🤔 I’m looking for help with ...
