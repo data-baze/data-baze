@@ -13,7 +13,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=data-baze&theme=dark)](https://git.io/streak-stats)
 
-![Data's GitHub Stats](https://stat-new.vercel.app/api?username=data-baze&show_icons=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&theme=radical)
+![Data's GitHub Stats](https://test-stat-data-basseys-projects.vercel.app/api?username=data-baze&show_icons=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&theme=radical)
 
 
 
